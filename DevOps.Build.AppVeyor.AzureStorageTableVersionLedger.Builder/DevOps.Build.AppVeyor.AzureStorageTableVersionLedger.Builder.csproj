@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>cdorst</Authors>
+    <Copyright>Copyright © Christopher Dorst</Copyright>
+    <Description>Function returns an instance of RepositoryVersionTable</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdorst-dev.azureedge.net/nuget/package-icon-64.png</PackageIconUrl>
+    <PackageId>CDorst.DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder</PackageId>
+    <PackageLicenseUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdorst/DevOps.Build.AppVeyor.AzureStorageTableVersionLedger.Builder</RepositoryUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CDorst.DevOps.Build.AppVeyor.AzureStorageTableVersionLedger" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
