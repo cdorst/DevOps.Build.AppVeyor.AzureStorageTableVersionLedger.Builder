@@ -27,7 +27,7 @@ The project below uses this repository as a direct dependency.
 
 Name | Status
 ---- | ------
-[DevOps.Build.AppVeyor.AddRepositoryVersion](https://github.com/CDorst./DevOps.Build.AppVeyor.AddRepositoryVersion) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-addrepositoryversion.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-addrepositoryversion) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.AddRepositoryVersion.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.AddRepositoryVersion)
+[DevOps.Build.AppVeyor.AddRepositoryVersion](https://github.com/CDorst/DevOps.Build.AppVeyor.AddRepositoryVersion) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-build-appveyor-addrepositoryversion.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-build-appveyor-addrepositoryversion) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Build.AppVeyor.AddRepositoryVersion.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Build.AppVeyor.AddRepositoryVersion)
 
 ## NuGet
 
@@ -36,7 +36,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.9
+1.0.10
 
 ## Metaproject
 
